@@ -11,7 +11,7 @@ function App() {
     { name: "Place orders for popcorn", status: false },
     { name: "Send movie to Pastor", status: false },
     { name: "Send out letters to departments ", status: false },
-    { name: "Seek for funding from some church member", status: false },
+    { name: "Seek for funding from some church members", status: false },
     { name: "Speak to our patron about the week celebrations", status: false },
     { name: "Pick people for our Personality Day", status: false },
     { name: "Pick someone for the Thursday financial literacy lecture", status: false },
