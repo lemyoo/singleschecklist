@@ -5,7 +5,7 @@ function App() {
   const evenstAndStatus = [
     { name: "Flyer for main event", status: false },
     { name: "Flyer with activities", status: false },
-    { name: "Design for Tshirt", status: false },
+    { name: "Design for Tshirt", status: true },
     { name: "Printing of Tshirt", status: false },
     { name: "Place orders for kenkey", status: false },
     { name: "Place orders for popcorn", status: false },
